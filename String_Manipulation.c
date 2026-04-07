@@ -50,3 +50,4 @@ void Get_Blanks_Chars( char *line, int Start, int *N_Blanks, int *N_Chars ) {
 		}
 	}
 }
+// change
